@@ -8,7 +8,7 @@ nfl_pbp_2010-2020.csv
 .ipynb_checkpoints/
 
 # ignore Literature
-Literature/
+# Literature/
 
 # ignore images or animations
 *.mp4
