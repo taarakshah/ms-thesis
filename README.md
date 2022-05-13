@@ -1,5 +1,5 @@
 # ms-thesis
-MS Thesis, nfl tracking work, literature
+MS Thesis / Plan B, nfl tracking work, literature
 
 Use NFL tracking data to classify safeties, cornerbacks to man vs zone coverage. Then, use that information to look into how it influences WR routes and how play outcomes differ based on coverage and type of route that was run.
 
