@@ -1,7 +1,6 @@
 # ignore nfl big data bowl files
 nfl-big-data-bowl/
-weekMod17.csv
-weekModpos.csv
+*.csv
 
 # ignore jupyter checkpoints
 .ipynb_checkpoints/
