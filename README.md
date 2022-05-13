@@ -7,4 +7,4 @@ The GMM framework is adapted from this paper: Unsupervised Methods for Identifyi
 
 I built upon this by including safeties in the analysis and including orientation data. The analysis on receivers is entirely my own.
 
-Methods: Gaussian mixture model
+Methods: Gaussian mixture model, K-means for modeling, otherwise remainder of work was exploratory analysis
